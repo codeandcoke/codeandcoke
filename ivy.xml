@@ -29,6 +29,12 @@
 		<!-- Servlet 3.0 API -->
 		<dependency org="javax.servlet" name="javax.servlet-api" rev="3.0.1" conf="nodeploy->default" />
 
+<<<<<<< HEAD
+=======
+		<!-- TestBench 4 -->
+		<dependency org="com.vaadin" name="vaadin-testbench-api" rev="latest.release" conf="nodeploy -> default" />
+
+>>>>>>> fc301dae5f064e61e91e15cf0c46ecb5b677e1d9
 		<!-- Precompiled DefaultWidgetSet -->
 		<dependency org="com.vaadin" name="vaadin-client-compiled"
 			rev="&vaadin.version;" />
