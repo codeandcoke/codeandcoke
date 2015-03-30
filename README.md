@@ -6,3 +6,5 @@ My purpose is to make a website where people can learn to program with Java and 
 if I consider they are interesting to learn something
 
 Now, I am testing [Vaadin](http://vaadin.com), a very interesting Java framework for building web applications
+
+[sample1](http://www.codeandcoke.com/sample1.png)
