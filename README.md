@@ -9,4 +9,4 @@ Now, I am testing [Vaadin](http://vaadin.com), a very interesting Java framework
 
 ![sample1](http://www.codeandcoke.com/sample1.png)
 
-In [CodeAndCoke](http://www.codeandcoke:8080/codeandcoke) you can try a updated sample of my current work
+In [CodeAndCoke](http://www.codeandcoke.com:8080/codeandcoke) you can try a updated sample of my current work
