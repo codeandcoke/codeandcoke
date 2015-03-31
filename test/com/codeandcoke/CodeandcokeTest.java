@@ -1,4 +1,4 @@
-package com.example.codeandcoke;
+package com.codeandcoke;
 
 import com.vaadin.testbench.ScreenshotOnFailureRule;
 import com.vaadin.testbench.TestBenchTestCase;
